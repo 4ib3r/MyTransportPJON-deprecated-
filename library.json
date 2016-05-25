@@ -1,0 +1,7 @@
+{
+  "name": "PJON_Transport for MySensors",
+  "keywords": "pjon transport MySensors",
+  "description": "MySensors transport over pjon",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
