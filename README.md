@@ -3,11 +3,11 @@ PJON based transport for MySensors <a href="https://github.com/gioblu/PJON">http
 
 Timer0 interrupt is used to send messages from queue in 1ms intervals.
 
-##Requirements
+## Requirements
 PJON 3.0 library
 MySensor libraries
 
-##Example
+## Example
 DHT sensor node
 ```c++
 #include "DHT.h"
