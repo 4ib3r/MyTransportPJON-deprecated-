@@ -1,3 +1,6 @@
+# Deprecated
+Actual fork with changes: https://github.com/4ib3r/MySensors/
+
 # MyTransportPJON
 PJON based transport for MySensors <a href="https://github.com/gioblu/PJON">https://github.com/gioblu/PJON</a>
 
